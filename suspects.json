@@ -1,0 +1,115 @@
+{
+    "suspects": [
+      {
+        "name": "John Doe",
+        "age": 35,
+        "gender": "male",
+        "height": 180,
+        "weight": 80,
+        "hair_color": "black",
+        "eye_color": "brown",
+        "traits": ["tattoo on right arm", "scar on left cheek"]
+      },
+      {
+        "name": "Jane Smith",
+        "age": 28,
+        "gender": "female",
+        "height": 165,
+        "weight": 60,
+        "hair_color": "blonde",
+        "eye_color": "blue",
+        "traits": ["wears glasses"]
+      },
+      {
+        "name": "Robert Johnson",
+        "age": 42,
+        "gender": "male",
+        "height": 175,
+        "weight": 70,
+        "hair_color": "brown",
+        "eye_color": "green",
+        "traits": []
+      },
+      {
+        "name": "Emily Davis",
+        "age": 31,
+        "gender": "female",
+        "height": 170,
+        "weight": 55,
+        "hair_color": "red",
+        "eye_color": "hazel",
+        "traits": ["multiple ear piercings"]
+      },
+      {
+        "name": "Michael Wilson",
+        "age": 45,
+        "gender": "male",
+        "height": 185,
+        "weight": 90,
+        "hair_color": "brown",
+        "eye_color": "blue",
+        "traits": ["facial scar"]
+      },
+      {
+        "name": "Jessica Thompson",
+        "age": 29,
+        "gender": "female",
+        "height": 160,
+        "weight": 50,
+        "hair_color": "black",
+        "eye_color": "green",
+        "traits": ["tattoo on back"]
+      },
+      {
+        "name": "David Anderson",
+        "age": 36,
+        "gender": "male",
+        "height": 190,
+        "weight": 85,
+        "hair_color": "blonde",
+        "eye_color": "brown",
+        "traits": ["wears a silver bracelet"]
+      },
+      {
+        "name": "Sophia Martinez",
+        "age": 27,
+        "gender": "female",
+        "height": 155,
+        "weight": 48,
+        "hair_color": "brown",
+        "eye_color": "blue",
+        "traits": []
+      },
+      {
+        "name": "Daniel Thompson",
+        "age": 33,
+        "gender": "male",
+        "height": 175,
+        "weight": 75,
+        "hair_color": "black",
+        "eye_color": "brown",
+        "traits": ["smokes cigarettes"]
+      },
+      {
+        "name": "Olivia Johnson",
+        "age": 30,
+        "gender": "female",
+        "height": 170,
+        "weight": 60,
+        "hair_color": "brown",
+        "eye_color": "green",
+        "traits": ["wears a silver necklace"]
+      },
+      {
+        "name": "Matthew Davis",
+        "age": 39,
+        "gender": "male",
+        "height": 180,
+        "weight": 80,
+        "hair_color": "black",
+        "eye_color": "blue",
+        "traits": ["tattoo on right forearm"]
+      }
+    ]
+  }
+  
